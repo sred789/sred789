@@ -3,6 +3,7 @@
 ### Full Stack Developer using n8n to develop AI agents and Claude Code and ChatGPT to develop applications.
 
 - [RAG-Agent](https://github.com/sred789/RAG-agent/blob/main/README.md) - AI agent built in n8n that stores documentation in a vectorized database to be referenced later on when the agent is prompted.
+- [Gamer Gold Store](https://gamergold.store) - Shopify example store with fictional products.
 - [HexQuest](https://github.com/sred789/HexQuest/blob/main/README.md) - a React based game using claude code to generate React and ChatGPT to generate gamedesign documentation and prompts for coding - check out the screenshot on the repo
 -  [Mechanic Shop API](https://github.com/sred789/Mechanic-Shop-Flask-API) - Created a Python based RestfulAPI using Flask, Marshmallow, and SQLAlchemy. This API is intended to be used to track the customers, mechanics, service tickets, and car parts for a Mechanic Shop.
 -  [Movie Agent](https://github.com/sred789/MovieAgent) - I created an agent using n8n to scrape the data from my local movie theater and email me with movies currently showing that will leave soon so I don't forget to see movies I want to catch in theaters
