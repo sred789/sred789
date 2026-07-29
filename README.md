@@ -8,6 +8,9 @@
   * FastAPI
   * React/Typescript Front End
   * Hosted on Azure
+  <br>
+  See the demo <a href="https://www.youtube.com/watch?v=-Q3aU0MXdpM">here</a>
+  <br>
 
 <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/52e990e3-cb35-4a78-94f2-3d3ab5cca47e" />  <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/342812d7-c688-4dc9-b346-b43d50e4d16d" /> 
  <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/16ecc02c-f4eb-4d7d-a1bc-e5671a94d442" />  <img width="40%" height="40%" alt="image" src="https://github.com/user-attachments/assets/a1f4b9a5-d980-4490-9f31-25eaaa4c975b" /> 
